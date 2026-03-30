@@ -1,0 +1,9 @@
+Frances:
+- HTML
+- Helped with JS for the timers of clicks per second
+- CSS
+
+Bushra:
+- HTML
+- JS for upgrades mechanics
+- Compiling the Frances images 😍
